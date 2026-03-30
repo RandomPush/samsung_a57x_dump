@@ -1,0 +1,194 @@
+/system/lib/modules/rust_binder.ko:
+/vendor/lib/modules/snd-soc-tfa986x.ko: /vendor/lib/modules/sec_audio_sysfs.ko
+/vendor/lib/modules/cpif_cma_mem.ko:
+/system/lib/modules/kunit-example-test.ko: /system/lib/modules/kunit.ko
+/vendor/lib/modules/hts.ko:
+/system/lib/modules/nhc_ipv6.ko: /system/lib/modules/6lowpan.ko
+/vendor/lib/modules/pablo-init.ko: /vendor/lib/modules/pablo-smc.ko
+/system/lib/modules/ppp_deflate.ko: /system/lib/modules/ppp_generic.ko /system/lib/modules/slhc.ko
+/vendor/lib/modules/scsc_bt.ko: /system/lib/modules/bluetooth.ko /system/lib/modules/rfkill.ko /vendor/lib/modules/scsc_mx.ko /vendor/lib/modules/scsc_platform_mif.ko /vendor/lib/modules/scsc_logring.ko /vendor/lib/modules/scsc_log_collection.ko
+/system/lib/modules/tipc_diag.ko: /system/lib/modules/tipc.ko
+/system/lib/modules/nhc_udp.ko: /system/lib/modules/6lowpan.ko
+/vendor/lib/modules/pablo-smc.ko:
+/system/lib/modules/pps_core.ko:
+/vendor/lib/modules/sec_pm_regulator.ko:
+/vendor/lib/modules/exynos-smc_logging.ko:
+/vendor/lib/modules/sec_pm_cpupm.ko:
+/vendor/lib/modules/pablo-hws.ko: /vendor/lib/modules/pablo-libs.ko /vendor/lib/modules/exynos-bcm.ko /vendor/lib/modules/pablo-init.ko /vendor/lib/modules/pablo-smc.ko
+/system/lib/modules/usbserial.ko:
+/system/lib/modules/nhc_hop.ko: /system/lib/modules/6lowpan.ko
+/system/lib/modules/slhc.ko:
+/system/lib/modules/virtio_pci_legacy_dev.ko:
+/vendor/lib/modules/exynos-dsu-profiler.ko: /vendor/lib/modules/exynos-profiler-fn.ko
+/vendor/lib/modules/exynos-tzasc.ko:
+/system/lib/modules/open-dice.ko:
+/vendor/lib/modules/exynos-pd-dbg.ko:
+/vendor/lib/modules/scsc_wlan.ko: /vendor/lib/modules/cfg80211.ko /vendor/lib/modules/scsc_wifilogger.ko /system/lib/modules/rfkill.ko /vendor/lib/modules/scsc_mx.ko /vendor/lib/modules/scsc_platform_mif.ko /vendor/lib/modules/scsc_logring.ko /vendor/lib/modules/scsc_log_collection.ko
+/system/lib/modules/of_kunit_helpers.ko: /system/lib/modules/kunit.ko
+/system/lib/modules/ftdi_sio.ko: /system/lib/modules/usbserial.ko
+/vendor/lib/modules/pablo-cis-imx906.ko: /vendor/lib/modules/pablo-core.ko /vendor/lib/modules/leds-sm5714b.ko /vendor/lib/modules/pablo-hws.ko /vendor/lib/modules/pablo-icpu.ko /vendor/lib/modules/pablo-votf.ko /vendor/lib/modules/pablo-libs.ko /vendor/lib/modules/exynos-bcm.ko /vendor/lib/modules/pablo-init.ko /vendor/lib/modules/pablo-smc.ko
+/vendor/lib/modules/exynos-msc-dsu.ko: /vendor/lib/modules/exynos-mpam.ko
+/system/lib/modules/cdc_ncm.ko: /system/lib/modules/cdc_ether.ko /system/lib/modules/usbnet.ko /system/lib/modules/mii.ko
+/system/lib/modules/ppp_generic.ko: /system/lib/modules/slhc.ko
+/system/lib/modules/can-bcm.ko: /system/lib/modules/can.ko
+/system/lib/modules/soc-utils-test.ko: /system/lib/modules/kunit.ko
+/vendor/lib/modules/leds-sm5714b.ko:
+/system/lib/modules/clk-gate_test.ko: /system/lib/modules/kunit.ko
+/system/lib/modules/fat_test.ko: /system/lib/modules/kunit.ko
+/vendor/lib/modules/proca.ko: /vendor/lib/modules/five.ko
+/system/lib/modules/hidp.ko: /system/lib/modules/bluetooth.ko /system/lib/modules/rfkill.ko
+/vendor/lib/modules/sec_mm.ko:
+/vendor/lib/modules/pablo-actuator-ak737x.ko: /vendor/lib/modules/pablo-core.ko /vendor/lib/modules/leds-sm5714b.ko /vendor/lib/modules/pablo-hws.ko /vendor/lib/modules/pablo-icpu.ko /vendor/lib/modules/pablo-votf.ko /vendor/lib/modules/pablo-libs.ko /vendor/lib/modules/exynos-bcm.ko /vendor/lib/modules/pablo-init.ko /vendor/lib/modules/pablo-smc.ko
+/system/lib/modules/rtl8150.ko:
+/vendor/lib/modules/cifs.ko: /vendor/lib/modules/dns_resolver.ko /system/lib/modules/netfs.ko
+/system/lib/modules/l2tp_core.ko:
+/vendor/lib/modules/smsc.ko:
+/vendor/lib/modules/cpif_page.ko:
+/vendor/lib/modules/hook.ko:
+/vendor/lib/modules/exynos_amb_control.ko: /vendor/lib/modules/exynos-mcinfo.ko
+/vendor/lib/modules/sec_conn_gadget.ko:
+/system/lib/modules/r8152.ko: /system/lib/modules/mii.ko
+/vendor/lib/modules/is-vendor-interface.ko: /vendor/lib/modules/pablo-core.ko /vendor/lib/modules/leds-sm5714b.ko /vendor/lib/modules/pablo-hws.ko /vendor/lib/modules/pablo-icpu.ko /vendor/lib/modules/pablo-votf.ko /vendor/lib/modules/pablo-libs.ko /vendor/lib/modules/exynos-bcm.ko /vendor/lib/modules/pablo-init.ko /vendor/lib/modules/pablo-smc.ko
+/system/lib/modules/nhc_routing.ko: /system/lib/modules/6lowpan.ko
+/system/lib/modules/bluetooth.ko: /system/lib/modules/rfkill.ko
+/system/lib/modules/iio-test-format.ko: /system/lib/modules/kunit.ko
+/vendor/lib/modules/pablo-cis-3l6.ko: /vendor/lib/modules/pablo-core.ko /vendor/lib/modules/leds-sm5714b.ko /vendor/lib/modules/pablo-hws.ko /vendor/lib/modules/pablo-icpu.ko /vendor/lib/modules/pablo-votf.ko /vendor/lib/modules/pablo-libs.ko /vendor/lib/modules/exynos-bcm.ko /vendor/lib/modules/pablo-init.ko /vendor/lib/modules/pablo-smc.ko
+/vendor/lib/modules/custos.ko: /vendor/lib/modules/psp.ko
+/system/lib/modules/nhc_mobility.ko: /system/lib/modules/6lowpan.ko
+/vendor/lib/modules/exyswd-rng.ko:
+/vendor/lib/modules/exynos-mcinfo.ko:
+/system/lib/modules/asix.ko: /system/lib/modules/usbnet.ko /system/lib/modules/mii.ko
+/vendor/lib/modules/direct_dm.ko:
+/system/lib/modules/virtio_blk.ko:
+/vendor/lib/modules/exynos-coresight.ko:
+/system/lib/modules/hid-uclogic-test.ko: /system/lib/modules/kunit.ko
+/system/lib/modules/can-dev.ko:
+/system/lib/modules/rfkill.ko:
+/system/lib/modules/ptp.ko: /system/lib/modules/pps_core.ko
+/system/lib/modules/8021q.ko:
+/vendor/lib/modules/exynos-profiler-fn.ko:
+/system/lib/modules/ppp_mppe.ko: /system/lib/modules/libarc4.ko /system/lib/modules/ppp_generic.ko /system/lib/modules/slhc.ko
+/vendor/lib/modules/psp.ko:
+/system/lib/modules/input_test.ko: /system/lib/modules/kunit.ko
+/system/lib/modules/regmap-kunit.ko: /system/lib/modules/regmap-raw-ram.ko /system/lib/modules/regmap-ram.ko /system/lib/modules/kunit.ko
+/vendor/lib/modules/sec_dwc3.ko: /vendor/lib/modules/sec_mon_gadget.ko
+/system/lib/modules/cctrng.ko:
+/vendor/lib/modules/exynos-sdm.ko:
+/vendor/lib/modules/sec_ts.ko:
+/system/lib/modules/netfs.ko:
+/vendor/lib/modules/plugin_dbg.ko:
+/system/lib/modules/regmap-raw-ram.ko:
+/vendor/lib/modules/sec_pmic_abc.ko:
+/vendor/lib/modules/sec_audio_sysfs.ko:
+/system/lib/modules/tls.ko:
+/vendor/lib/modules/scsc_wifilogger.ko: /vendor/lib/modules/scsc_mx.ko /vendor/lib/modules/scsc_platform_mif.ko /vendor/lib/modules/scsc_logring.ko /vendor/lib/modules/scsc_log_collection.ko
+/vendor/lib/modules/snd-soc-samsung-abox-sync-ipc-gdx.ko: /vendor/lib/modules/snd-soc-tfa986x.ko /vendor/lib/modules/sec_audio_sysfs.ko
+/system/lib/modules/nhc_fragment.ko: /system/lib/modules/6lowpan.ko
+/system/lib/modules/6lowpan.ko:
+/system/lib/modules/cdc_eem.ko: /system/lib/modules/usbnet.ko /system/lib/modules/mii.ko
+/system/lib/modules/9pnet_fd.ko: /system/lib/modules/9pnet.ko /system/lib/modules/netfs.ko
+/system/lib/modules/time_test.ko: /system/lib/modules/kunit.ko
+/vendor/lib/modules/exynos_audio.ko: /vendor/lib/modules/snd-soc-tfa986x.ko /vendor/lib/modules/sec_audio_sysfs.ko
+/system/lib/modules/virtio_console.ko:
+/system/lib/modules/lib_test.ko: /system/lib/modules/kunit.ko
+/system/lib/modules/mac802154.ko: /system/lib/modules/ieee802154.ko
+/system/lib/modules/cdc_ether.ko: /system/lib/modules/usbnet.ko /system/lib/modules/mii.ko
+/system/lib/modules/usbnet.ko: /system/lib/modules/mii.ko
+/system/lib/modules/libarc4.ko:
+/system/lib/modules/vmw_vsock_virtio_transport.ko:
+/system/lib/modules/clk-test.ko: /system/lib/modules/clk_kunit_helpers.ko /system/lib/modules/kunit.ko
+/system/lib/modules/r8153_ecm.ko: /system/lib/modules/r8152.ko /system/lib/modules/cdc_ether.ko /system/lib/modules/usbnet.ko /system/lib/modules/mii.ko
+/system/lib/modules/nhc_dest.ko: /system/lib/modules/6lowpan.ko
+/system/lib/modules/btqca.ko: /system/lib/modules/bluetooth.ko /system/lib/modules/rfkill.ko
+/vendor/lib/modules/exynos-cpu-profiler.ko: /vendor/lib/modules/exynos-profiler-fn.ko
+/vendor/lib/modules/exynos_mpam_policy.ko: /vendor/lib/modules/exynos-mpam.ko
+/system/lib/modules/ieee802154_socket.ko: /system/lib/modules/ieee802154.ko
+/system/lib/modules/clk_kunit_helpers.ko: /system/lib/modules/kunit.ko
+/system/lib/modules/hci_uart.ko: /system/lib/modules/btqca.ko /system/lib/modules/pwrseq-core.ko /system/lib/modules/btbcm.ko /system/lib/modules/bluetooth.ko /system/lib/modules/rfkill.ko
+/vendor/lib/modules/cpif.ko: /vendor/lib/modules/cpif_page.ko /vendor/lib/modules/cpif_cma_mem.ko /vendor/lib/modules/direct_dm.ko /vendor/lib/modules/clo.ko /vendor/lib/modules/hook.ko /vendor/lib/modules/exynos-bcm.ko
+/system/lib/modules/aqc111.ko: /system/lib/modules/usbnet.ko /system/lib/modules/mii.ko
+/system/lib/modules/kheaders.ko:
+/system/lib/modules/usbmon.ko:
+/vendor/lib/modules/scsc_platform_mif.ko: /vendor/lib/modules/scsc_logring.ko /vendor/lib/modules/scsc_log_collection.ko
+/vendor/lib/modules/exynos-el2.ko:
+/vendor/lib/modules/pablo-cis-gnj.ko: /vendor/lib/modules/pablo-core.ko /vendor/lib/modules/leds-sm5714b.ko /vendor/lib/modules/pablo-hws.ko /vendor/lib/modules/pablo-icpu.ko /vendor/lib/modules/pablo-votf.ko /vendor/lib/modules/pablo-libs.ko /vendor/lib/modules/exynos-bcm.ko /vendor/lib/modules/pablo-init.ko /vendor/lib/modules/pablo-smc.ko
+/system/lib/modules/gnss.ko:
+/system/lib/modules/pptp.ko: /system/lib/modules/pppox.ko /system/lib/modules/ppp_generic.ko /system/lib/modules/slhc.ko
+/system/lib/modules/tipc.ko:
+/system/lib/modules/ieee802154.ko:
+/vendor/lib/modules/scsc_logring.ko: /vendor/lib/modules/scsc_log_collection.ko
+/system/lib/modules/zsmalloc.ko:
+/vendor/lib/modules/exynos-bcm.ko:
+/vendor/lib/modules/sec_lvstest.ko:
+/vendor/lib/modules/scsc_mx.ko: /vendor/lib/modules/scsc_platform_mif.ko /vendor/lib/modules/scsc_logring.ko /vendor/lib/modules/scsc_log_collection.ko
+/system/lib/modules/can.ko:
+/system/lib/modules/dev_addr_lists_test.ko: /system/lib/modules/kunit.ko
+/vendor/lib/modules/snd-soc-tfa_sysfs.ko: /vendor/lib/modules/snd-soc-tfa986x.ko /vendor/lib/modules/sec_audio_sysfs.ko
+/vendor/lib/modules/smsc75xx.ko: /system/lib/modules/usbnet.ko /system/lib/modules/mii.ko
+/vendor/lib/modules/sec_pm_debug.ko:
+/system/lib/modules/virtio_pci.ko: /system/lib/modules/virtio_pci_legacy_dev.ko /system/lib/modules/virtio_pci_modern_dev.ko
+/vendor/lib/modules/cfg80211.ko: /system/lib/modules/rfkill.ko
+/vendor/lib/modules/clo.ko:
+/system/lib/modules/macsec.ko:
+/vendor/lib/modules/pablo-cis-3lc.ko: /vendor/lib/modules/pablo-core.ko /vendor/lib/modules/leds-sm5714b.ko /vendor/lib/modules/pablo-hws.ko /vendor/lib/modules/pablo-icpu.ko /vendor/lib/modules/pablo-votf.ko /vendor/lib/modules/pablo-libs.ko /vendor/lib/modules/exynos-bcm.ko /vendor/lib/modules/pablo-init.ko /vendor/lib/modules/pablo-smc.ko
+/vendor/lib/modules/exynos-mif-profiler.ko: /vendor/lib/modules/exynos-profiler-fn.ko
+/vendor/lib/modules/five.ko:
+/system/lib/modules/regmap-ram.ko:
+/vendor/lib/modules/smsc95xx.ko: /system/lib/modules/usbnet.ko /system/lib/modules/mii.ko
+/vendor/lib/modules/exynos-seh.ko:
+/system/lib/modules/btbcm.ko: /system/lib/modules/bluetooth.ko /system/lib/modules/rfkill.ko
+/vendor/lib/modules/sec_mon_gadget.ko:
+/system/lib/modules/rfcomm.ko: /system/lib/modules/bluetooth.ko /system/lib/modules/rfkill.ko
+/system/lib/modules/gzvm.ko:
+/vendor/lib/modules/pablo-gdc.ko: /vendor/lib/modules/pablo-votf.ko /vendor/lib/modules/pablo-libs.ko /vendor/lib/modules/exynos-bcm.ko /vendor/lib/modules/pablo-init.ko /vendor/lib/modules/pablo-smc.ko
+/vendor/lib/modules/exynos-seclog.ko:
+/system/lib/modules/ieee802154_6lowpan.ko: /system/lib/modules/ieee802154.ko /system/lib/modules/6lowpan.ko
+/vendor/lib/modules/pablo-cis-gc05a3.ko: /vendor/lib/modules/pablo-core.ko /vendor/lib/modules/leds-sm5714b.ko /vendor/lib/modules/pablo-hws.ko /vendor/lib/modules/pablo-icpu.ko /vendor/lib/modules/pablo-votf.ko /vendor/lib/modules/pablo-libs.ko /vendor/lib/modules/exynos-bcm.ko /vendor/lib/modules/pablo-init.ko /vendor/lib/modules/pablo-smc.ko
+/vendor/lib/modules/exynos-mpam.ko:
+/vendor/lib/modules/gnssif.ko:
+/vendor/lib/modules/sec_pm_tmu.ko:
+/system/lib/modules/wwan.ko:
+/vendor/lib/modules/exynos-gpu-profiler.ko: /vendor/lib/modules/exynos-profiler-fn.ko
+/vendor/lib/modules/sec_audio_debug.ko:
+/system/lib/modules/soc-topology-test.ko: /system/lib/modules/kunit.ko
+/vendor/lib/modules/exynos_boottime.ko:
+/system/lib/modules/l2tp_ppp.ko: /system/lib/modules/l2tp_core.ko /system/lib/modules/pppox.ko /system/lib/modules/ppp_generic.ko /system/lib/modules/slhc.ko
+/vendor/lib/modules/pablo-cis-imx823.ko: /vendor/lib/modules/pablo-core.ko /vendor/lib/modules/leds-sm5714b.ko /vendor/lib/modules/pablo-hws.ko /vendor/lib/modules/pablo-icpu.ko /vendor/lib/modules/pablo-votf.ko /vendor/lib/modules/pablo-libs.ko /vendor/lib/modules/exynos-bcm.ko /vendor/lib/modules/pablo-init.ko /vendor/lib/modules/pablo-smc.ko
+/vendor/lib/modules/pablo-votf.ko: /vendor/lib/modules/pablo-libs.ko /vendor/lib/modules/exynos-bcm.ko /vendor/lib/modules/pablo-init.ko /vendor/lib/modules/pablo-smc.ko
+/system/lib/modules/cdc-acm.ko:
+/system/lib/modules/ax88179_178a.ko: /system/lib/modules/usbnet.ko /system/lib/modules/mii.ko
+/vendor/lib/modules/secmem.ko:
+/vendor/lib/modules/pablo-libs.ko: /vendor/lib/modules/exynos-bcm.ko /vendor/lib/modules/pablo-init.ko /vendor/lib/modules/pablo-smc.ko
+/system/lib/modules/9pnet.ko: /system/lib/modules/netfs.ko
+/system/lib/modules/ext4-inode-test.ko: /system/lib/modules/kunit.ko
+/system/lib/modules/exynos-hvm.ko:
+/system/lib/modules/vcan.ko: /system/lib/modules/can-dev.ko
+/system/lib/modules/bsd_comp.ko: /system/lib/modules/ppp_generic.ko /system/lib/modules/slhc.ko
+/vendor/lib/modules/mx_client_test.ko: /vendor/lib/modules/scsc_mx.ko /vendor/lib/modules/scsc_platform_mif.ko /vendor/lib/modules/scsc_logring.ko /vendor/lib/modules/scsc_log_collection.ko
+/vendor/lib/modules/pablo-core.ko: /vendor/lib/modules/leds-sm5714b.ko /vendor/lib/modules/pablo-hws.ko /vendor/lib/modules/pablo-icpu.ko /vendor/lib/modules/pablo-votf.ko /vendor/lib/modules/pablo-libs.ko /vendor/lib/modules/exynos-bcm.ko /vendor/lib/modules/pablo-init.ko /vendor/lib/modules/pablo-smc.ko
+/vendor/lib/modules/pablo-icpu.ko: /vendor/lib/modules/pablo-libs.ko /vendor/lib/modules/exynos-bcm.ko /vendor/lib/modules/pablo-init.ko /vendor/lib/modules/pablo-smc.ko
+/system/lib/modules/can-raw.ko: /system/lib/modules/can.ko
+/system/lib/modules/pwrseq-core.ko:
+/vendor/lib/modules/scaler.ko:
+/system/lib/modules/kunit.ko:
+/system/lib/modules/pppox.ko: /system/lib/modules/ppp_generic.ko /system/lib/modules/slhc.ko
+/vendor/lib/modules/exynos-system-profiler.ko: /vendor/lib/modules/exynos-profiler-fn.ko
+/vendor/lib/modules/sec_thermistor.ko:
+/vendor/lib/modules/pablo-flash-sm5714.ko: /vendor/lib/modules/pablo-core.ko /vendor/lib/modules/leds-sm5714b.ko /vendor/lib/modules/pablo-hws.ko /vendor/lib/modules/pablo-icpu.ko /vendor/lib/modules/pablo-votf.ko /vendor/lib/modules/pablo-libs.ko /vendor/lib/modules/exynos-bcm.ko /vendor/lib/modules/pablo-init.ko /vendor/lib/modules/pablo-smc.ko
+/system/lib/modules/kunit-test.ko: /system/lib/modules/kunit.ko
+/system/lib/modules/can-gw.ko: /system/lib/modules/can.ko
+/system/lib/modules/vcpu_stall_detector.ko:
+/vendor/lib/modules/vendor-zram.ko: /vendor/lib/modules/sec_mm.ko /system/lib/modules/zsmalloc.ko
+/system/lib/modules/btsdio.ko: /system/lib/modules/bluetooth.ko /system/lib/modules/rfkill.ko
+/system/lib/modules/virtio_balloon.ko:
+/system/lib/modules/virtio_pci_modern_dev.ko:
+/system/lib/modules/zram.ko: /system/lib/modules/zsmalloc.ko
+/system/lib/modules/nfc.ko: /system/lib/modules/rfkill.ko
+/vendor/lib/modules/dns_resolver.ko:
+/system/lib/modules/slcan.ko: /system/lib/modules/can-dev.ko
+/system/lib/modules/mii.ko:
+/vendor/lib/modules/scsc_mmap.ko: /vendor/lib/modules/scsc_mx.ko /vendor/lib/modules/scsc_platform_mif.ko /vendor/lib/modules/scsc_logring.ko /vendor/lib/modules/scsc_log_collection.ko
+/system/lib/modules/platform-test.ko: /system/lib/modules/kunit.ko
+/system/lib/modules/ptp_kvm.ko: /system/lib/modules/ptp.ko /system/lib/modules/pps_core.ko
+/vendor/lib/modules/scsc_log_collection.ko:
+/vendor/lib/modules/sec_nfc.ko:

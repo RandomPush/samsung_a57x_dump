@@ -1,0 +1,9 @@
+# UART
+/dev/ttySAC0                               0660   root   radio
+
+# check_requested_gpio
+/sys/class/sec/gpio check_requested_gpio   0664   root   system
+
+# bpwd
+/dev/block/by-name/param                   0660   root   system
+/dev/block/by-name/debug                   0660   root   system

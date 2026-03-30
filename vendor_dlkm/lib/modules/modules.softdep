@@ -1,0 +1,29 @@
+# Soft dependencies extracted from modules themselves.
+softdep exynos_dsu_profiler pre: exynos-cpufreq exynos_devfreq
+softdep pablo_cis_imx906 pre: fimc-is
+softdep pablo_actuator_ak737x pre: fimc-is
+softdep cifs pre: ecb
+softdep cifs pre: hmac
+softdep cifs pre: md5
+softdep cifs pre: nls
+softdep cifs pre: aes
+softdep cifs pre: cmac
+softdep cifs pre: sha256
+softdep cifs pre: sha512
+softdep cifs pre: aead2
+softdep cifs pre: ccm
+softdep cifs pre: gcm
+softdep pablo_cis_3l6 pre: fimc-is
+softdep exynos_profiler_fn pre: exynos_thermal_v2 exynos-cpufreq sgpu exynos_devfreq
+softdep exynos_cpu_profiler pre: exynos_thermal_v2 exynos-cpufreq sgpu exynos_devfreq
+softdep exynos_mpam_policy mpam_policy pre: exynos-mpam
+softdep pablo_cis_gnj pre: fimc-is
+softdep sec_pm_debug pre: acpm-mfd-bus
+softdep pablo_cis_3lc pre: fimc-is
+softdep exynos_mif_profiler pre: exynos_thermal_v2 exynos-cpufreq exynos_devfreq exynos-wow sgpu
+softdep pablo_cis_gc05a3 pre: fimc-is
+softdep exynos_gpu_profiler pre: exynos_thermal_v2 exynos-cpufreq sgpu exynos_devfreq
+softdep pablo_cis_imx823 pre: fimc-is
+softdep pablo_core pre: cmupmucal clk_exynos exynos-pmu-if pinctrl-samsung-core pcie-exynos-rc phy-exynos-mipi samsung-iommu samsung-iommu-group
+softdep pablo_flash_sm5714 pre: fimc-is
+softdep sec_nfc pre: i2c-exynos5

@@ -1,0 +1,20 @@
+on init
+    symlink /dev/block/by-name/param /dev/block/param
+
+    # fix permissions for asv nodes
+    chmod 0444 /sys/kernel/asv/asb_ver
+    chmod 0444 /sys/kernel/asv/t1
+    chmod 0444 /sys/kernel/asv/t2
+    chmod 0444 /sys/kernel/asv/t3
+    chmod 0444 /sys/kernel/asv/t4
+    chmod 0444 /sys/kernel/asv/t5
+    chmod 0444 /sys/kernel/asv/t6
+    chmod 0444 /sys/kernel/asv/t7
+    chmod 0444 /sys/kernel/asv/t8
+    chmod 0444 /sys/kernel/asv/t9
+
+on fs
+    wait /dev/block/by-name/sec_efs
+    mount ext4 /dev/block/by-name/sec_efs /efs nosuid nodev noatime noauto_da_alloc,discard,journal_checksum,data=ordered,errors=panic
+
+    chmod 0771 /mnt/vendor/efs

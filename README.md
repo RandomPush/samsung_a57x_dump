@@ -1,0 +1,14 @@
+# a57xnaxx-user 16 BP4A.251205.006 A576BXXU1AZB7 release-keys
+- manufacturer: samsung
+- platform: erd8865
+- codename: a57x
+- flavor: a57xnaxx-user
+- release: 16
+- id: BP4A.251205.006
+- incremental: A576BXXU1AZB7
+- tags: release-keys
+- fingerprint: samsung/a57xnaxx/a57x:16/BP2A.250605.031.A3/A576BXXU1AZB7:user/release-keys
+- is_ab: true
+- brand: samsung
+- branch: a57xnaxx-user-16-BP4A.251205.006-A576BXXU1AZB7-release-keys-
+- repo: samsung_a57x_dump

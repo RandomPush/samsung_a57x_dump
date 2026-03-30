@@ -1,0 +1,7 @@
+# Audio
+ro.audio.ihaladaptervendorextension_enabled=true
+
+# Miscellaneous
+ro.config.isolated_compilation_enabled=true
+ro.system_ext.build.version.sdk_full=36.1
+
